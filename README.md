@@ -5,7 +5,7 @@ Home page for all the code used in the paper: [Revisiting Open-Loop Execution in
 <br>
 
 - Diffusion Policy Training Repository: https://github.com/Michaelszeng/diffusion-policy-experiments
-- `FurnitureSim` Experiments: TODO
+- `FurnitureSim` Experiments: https://github.com/Michaelszeng/benchmark-furniturebench-juicer
 - `Push-T` Drake Experiments: https://github.com/Michaelszeng/diffusion-policy-drake
 - `Push-T` ManiSkill Experiments: https://github.com/Michaelszeng/ManiSkill
 - `IsaacLab Gear Insertion` Experiments: https://github.com/Michaelszeng/IsaacLab
