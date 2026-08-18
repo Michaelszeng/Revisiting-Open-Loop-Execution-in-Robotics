@@ -1,6 +1,6 @@
 ## Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies
 
-Home page for all the code used in the paper: [Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies]()
+Home page for all the code used in the paper: [Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies](https://arxiv.org/abs/2608.15938)
 
 <br>
 
@@ -14,3 +14,18 @@ Home page for all the code used in the paper: [Revisiting Open-Loop Execution in
 <br>
 
 Feel free to ask questions in the Issues!
+
+
+Cite this work:
+
+```
+@misc{zeng2026revisitingopenloopexecutionrobotics,
+      title={Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies}, 
+      author={Michael Zeng and Abhinav Agarwal and Ajay Bati and Brian Lee and Siddharth Ancha and Russ Tedrake},
+      year={2026},
+      eprint={2608.15938},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2608.15938}, 
+}
+```
