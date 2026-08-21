@@ -15,8 +15,8 @@ Home page for code and datasets used in the paper: [Revisiting Open-Loop Executi
 Note that the on-hardware inference code is proprietary and is thus not public.
 
 ### Public Datasets:
-- `FurnitureSim` `one_leg` task teleop demonstrations:https://huggingface.co/datasets/michzeng/FurnitureSim-one_leg-Teleop
-- `ManiSkill` `PlanarPushT` task teleop demonstrations: https://huggingface.co/datasets/michzeng/ManiSkill-PlanarPushT-Teleop
+- `FurnitureSim` `one_leg` teleop demonstrations: https://huggingface.co/datasets/michzeng/FurnitureSim-one_leg-Teleop
+- `ManiSkill` `PlanarPushT` teleop demonstrations: https://huggingface.co/datasets/michzeng/ManiSkill-PlanarPushT-Teleop
 
 <br>
 
