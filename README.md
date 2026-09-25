@@ -5,18 +5,14 @@ Home page for code and datasets used in the paper: Revisiting Open-Loop Executio
 <br>
 
 ### Public Code:
-- Diffusion Policy Training Repository: https://github.com/Michaelszeng/diffusion-policy-experiments
-- `FurnitureSim` Experiments: https://github.com/Michaelszeng/benchmark-furniturebench-juicer
-- `Push-T` Drake Experiments: https://github.com/Michaelszeng/diffusion-policy-drake
-- `Push-T` ManiSkill Experiments: https://github.com/Michaelszeng/ManiSkill
-- `IsaacLab Gear Insertion` Experiments: https://github.com/Michaelszeng/IsaacLab
-- `Franka Kitchen` Experiments: https://github.com/Michaelszeng/relay-policy-learning
+- Diffusion Policy Training Repository: https://anonymous.4open.science/r/diffusion-policy-experiments-DF61/README.md
+- `FurnitureSim` Experiments: https://anonymous.4open.science/r/benchmark-furniturebench-juicer/README.md
+- `Push-T` Drake Experiments: https://anonymous.4open.science/r/diffusion-policy-drake/README.md
+- `Push-T` ManiSkill Experiments: https://anonymous.4open.science/r/ManiSkill/README.md
+- `IsaacLab Gear Insertion` Experiments: https://anonymous.4open.science/r/IsaacLab-C65A/README.md
+- `Franka Kitchen` Experiments: https://anonymous.4open.science/r/relay-policy-learning/README.md
 
 Note that the on-hardware inference code is proprietary and is thus not public.
-
-### Public Datasets:
-- `FurnitureSim` `one_leg` teleop demonstrations: https://huggingface.co/datasets/michzeng/FurnitureSim-one_leg-Teleop
-- `ManiSkill` `PlanarPushT` teleop demonstrations: https://huggingface.co/datasets/michzeng/ManiSkill-PlanarPushT-Teleop
 
 <br>
 
