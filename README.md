@@ -18,18 +18,3 @@ Note that the on-hardware inference code is proprietary and is thus not public.
 
 Feel free to ask questions in the Issues!
 
-<br>
-
-Cite this work:
-
-```
-@misc{zeng2026revisitingopenloopexecutionrobotics,
-      title={Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies}, 
-      author={Michael Zeng and Abhinav Agarwal and Ajay Bati and Brian Lee and Siddharth Ancha and Russ Tedrake},
-      year={2026},
-      eprint={2608.15938},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO},
-      url={https://arxiv.org/abs/2608.15938}, 
-}
-```
