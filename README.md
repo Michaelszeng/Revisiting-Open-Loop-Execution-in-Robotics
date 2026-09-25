@@ -1,6 +1,6 @@
 ## Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies
 
-Home page for code and datasets used in the paper: [Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies](https://arxiv.org/abs/2608.15938)
+Home page for code and datasets used in the paper: Revisiting Open-Loop Execution in Robotics: Toward Reactive, Higher-Performing Policies
 
 <br>
 
